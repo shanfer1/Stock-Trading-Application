@@ -1,0 +1,22 @@
+.login-fail {
+    background-color: 	#fcd6d8;
+    color: #8e1727;
+}
+
+.parent {
+    /* display: flex; */
+    /* justify-content: center; */
+    /* align-items: center; */
+    /* flex-direction: column; */
+    margin:0 auto;
+    
+  }
+  .login-class{
+    text-align: center;
+    margin-top:50px;
+
+  }
+  .login-register{
+    padding: 20px;
+    text-align: center;
+  }

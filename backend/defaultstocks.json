@@ -1,0 +1,112 @@
+{
+    "stocks":[
+        {
+            "ticker":"AAPL",
+            "StockName":"APPLE",
+            "DESCRIPTION":"Apple Inc. (Apple) designs, manufactures and markets mobile communication and media devices, personal computers, and portable digital music players, and a variety of related software, services, peripherals, networking solutions, and third-party digital content and applications. The Company's products and services include iPhone, iPad, Mac, iPod, Apple TV, a portfolio of consumer and professional software applications, the iOS and OS X operating systems, iCloud, and a variety of accessory, service and support offerings. The Company also delivers digital content and applications through the iTunes Store, App StoreSM, iBookstoreSM, and Mac App Store. The Company distributes its products worldwide through its retail stores, online stores, and direct sales force, as well as through third-party cellular network carriers, wholesalers, retailers, and value-added resellers. In February 2012, the Company acquired app-search engine Chomp.",
+            "STARTDATE":"1980-12-12",
+            "EXCHANGECODE":"NASDAQ",
+            "closingprice":"98",
+            "currentprice":"100"
+        },
+        {
+            "ticker":"META",
+            "StockName":"FACEBOOK",
+            "DESCRIPTION":"Facebook, Inc. (Facebook) is engaged in building products to create utility for users, developers, and advertisers. People use Facebook to stay connected with their friends and family, to discover what is going on in the world around them, and to share and express what matters to them to the people they care about. Developers can use the Facebook Platform to build applications and Websites that integrate with Facebook to reach its global network of users and to build personalized and social products. Advertisers can engage with more than 900 million monthly active users (MAUs) on Facebook or subsets of its users based on information they have chosen to share with the Company, such as their age, location, gender, or interests. In September 2013, Mail.Ru Group Limited sold its remaining shares in Facebook Inc. Effective September 25, 2013, Facebook Inc acquired Mobile Technologies, a developer of online applications. In October 2013, Facebook Inc acquired Onavo Inc.",
+            "STARTDATE":"2012-05-18",
+            "EXCHANGECODE":"NASDAQ",
+            "closingprice":"56",
+            "currentprice":"54"
+        },
+        {
+            "ticker":"AMZN",
+            "StockName":"AMAZON",
+            "DESCRIPTION":"Amazon is guided by four principles: customer obsession rather than competitor focus, passion for invention, commitment to operational excellence, and long-term thinking. Amazon strives to be Earth’s Most Customer-Centric Company, Earth’s Best Employer, and Earth’s Safest Place to Work. Customer reviews, 1-Click shopping, personalized recommendations, Prime, Fulfillment by Amazon, AWS, Kindle Direct Publishing, Kindle, Career Choice, Fire tablets, Fire TV, Amazon Echo, Alexa, Just Walk Out technology, Amazon Studios, and The Climate Pledge are some of the things pioneered by Amazon.",
+            "STARTDATE":"1997-05-15",
+            "EXCHANGECODE":"NASDAQ",
+            "closingprice":"89",
+            "currentprice":"90"
+        },
+        {
+            "ticker":"NFLX",
+            "StockName":"NETFLIX",
+            "DESCRIPTION":"Netflix is one the world's leading entertainment services with 221 million paid memberships in over 190 countries enjoying TV series, documentaries, feature films and mobile games across a wide variety of genres and languages. Members can watch as much as they want, anytime, anywhere, on any internet-connected screen. Members can play, pause and resume watching, all without commercials or commitments. SOURCE Netflix, Inc.",
+            "STARTDATE":"2002-05-23",
+            "EXCHANGECODE":"NASDAQ",
+            "closingprice":"85",
+            "currentprice":"80"
+        },
+        {
+            "ticker":"AAPL1",
+            "StockName":"APPLE1",
+            "DESCRIPTION":"Apple Inc. (Apple) designs, manufactures and markets mobile communication and media devices, personal computers, and portable digital music players, and a variety of related software, services, peripherals, networking solutions, and third-party digital content and applications. The Company's products and services include iPhone, iPad, Mac, iPod, Apple TV, a portfolio of consumer and professional software applications, the iOS and OS X operating systems, iCloud, and a variety of accessory, service and support offerings. The Company also delivers digital content and applications through the iTunes Store, App StoreSM, iBookstoreSM, and Mac App Store. The Company distributes its products worldwide through its retail stores, online stores, and direct sales force, as well as through third-party cellular network carriers, wholesalers, retailers, and value-added resellers. In February 2012, the Company acquired app-search engine Chomp.",
+            "STARTDATE":"1980-12-12",
+            "EXCHANGECODE":"NASDAQ",
+            "closingprice":"98",
+            "currentprice":"100"
+        },
+        {
+            "ticker":"META1",
+            "StockName":"FACEBOOK1",
+            "DESCRIPTION":"Facebook, Inc. (Facebook) is engaged in building products to create utility for users, developers, and advertisers. People use Facebook to stay connected with their friends and family, to discover what is going on in the world around them, and to share and express what matters to them to the people they care about. Developers can use the Facebook Platform to build applications and Websites that integrate with Facebook to reach its global network of users and to build personalized and social products. Advertisers can engage with more than 900 million monthly active users (MAUs) on Facebook or subsets of its users based on information they have chosen to share with the Company, such as their age, location, gender, or interests. In September 2013, Mail.Ru Group Limited sold its remaining shares in Facebook Inc. Effective September 25, 2013, Facebook Inc acquired Mobile Technologies, a developer of online applications. In October 2013, Facebook Inc acquired Onavo Inc.",
+            "STARTDATE":"2012-05-18",
+            "EXCHANGECODE":"NASDAQ",
+            "closingprice":"56",
+            "currentprice":"54"
+        },
+        {
+            "ticker":"AMZN1",
+            "StockName":"AMAZON1",
+            "DESCRIPTION":"Amazon is guided by four principles: customer obsession rather than competitor focus, passion for invention, commitment to operational excellence, and long-term thinking. Amazon strives to be Earth’s Most Customer-Centric Company, Earth’s Best Employer, and Earth’s Safest Place to Work. Customer reviews, 1-Click shopping, personalized recommendations, Prime, Fulfillment by Amazon, AWS, Kindle Direct Publishing, Kindle, Career Choice, Fire tablets, Fire TV, Amazon Echo, Alexa, Just Walk Out technology, Amazon Studios, and The Climate Pledge are some of the things pioneered by Amazon.",
+            "STARTDATE":"1997-05-15",
+            "EXCHANGECODE":"NASDAQ",
+            "closingprice":"89",
+            "currentprice":"90"
+        },
+        {
+            "ticker":"NFLX1",
+            "StockName":"NETFLIX1",
+            "DESCRIPTION":"Netflix is one the world's leading entertainment services with 221 million paid memberships in over 190 countries enjoying TV series, documentaries, feature films and mobile games across a wide variety of genres and languages. Members can watch as much as they want, anytime, anywhere, on any internet-connected screen. Members can play, pause and resume watching, all without commercials or commitments. SOURCE Netflix, Inc.",
+            "STARTDATE":"2002-05-23",
+            "EXCHANGECODE":"NASDAQ",
+            "closingprice":"85",
+            "currentprice":"80"
+        },
+        {
+            "ticker":"AAPL2",
+            "StockName":"APPLE2",
+            "DESCRIPTION":"Apple Inc. (Apple) designs, manufactures and markets mobile communication and media devices, personal computers, and portable digital music players, and a variety of related software, services, peripherals, networking solutions, and third-party digital content and applications. The Company's products and services include iPhone, iPad, Mac, iPod, Apple TV, a portfolio of consumer and professional software applications, the iOS and OS X operating systems, iCloud, and a variety of accessory, service and support offerings. The Company also delivers digital content and applications through the iTunes Store, App StoreSM, iBookstoreSM, and Mac App Store. The Company distributes its products worldwide through its retail stores, online stores, and direct sales force, as well as through third-party cellular network carriers, wholesalers, retailers, and value-added resellers. In February 2012, the Company acquired app-search engine Chomp.",
+            "STARTDATE":"1980-12-12",
+            "EXCHANGECODE":"NASDAQ",
+            "closingprice":"98",
+            "currentprice":"100"
+        },
+        {
+            "ticker":"META",
+            "StockName":"FACEBOOK",
+            "DESCRIPTION":"Facebook, Inc. (Facebook) is engaged in building products to create utility for users, developers, and advertisers. People use Facebook to stay connected with their friends and family, to discover what is going on in the world around them, and to share and express what matters to them to the people they care about. Developers can use the Facebook Platform to build applications and Websites that integrate with Facebook to reach its global network of users and to build personalized and social products. Advertisers can engage with more than 900 million monthly active users (MAUs) on Facebook or subsets of its users based on information they have chosen to share with the Company, such as their age, location, gender, or interests. In September 2013, Mail.Ru Group Limited sold its remaining shares in Facebook Inc. Effective September 25, 2013, Facebook Inc acquired Mobile Technologies, a developer of online applications. In October 2013, Facebook Inc acquired Onavo Inc.",
+            "STARTDATE":"2012-05-18",
+            "EXCHANGECODE":"NASDAQ",
+            "closingprice":"56",
+            "currentprice":"54"
+        },
+        {
+            "ticker":"AMZN",
+            "StockName":"AMAZON",
+            "DESCRIPTION":"Amazon is guided by four principles: customer obsession rather than competitor focus, passion for invention, commitment to operational excellence, and long-term thinking. Amazon strives to be Earth’s Most Customer-Centric Company, Earth’s Best Employer, and Earth’s Safest Place to Work. Customer reviews, 1-Click shopping, personalized recommendations, Prime, Fulfillment by Amazon, AWS, Kindle Direct Publishing, Kindle, Career Choice, Fire tablets, Fire TV, Amazon Echo, Alexa, Just Walk Out technology, Amazon Studios, and The Climate Pledge are some of the things pioneered by Amazon.",
+            "STARTDATE":"1997-05-15",
+            "EXCHANGECODE":"NASDAQ",
+            "closingprice":"89",
+            "currentprice":"90"
+        },
+        {
+            "ticker":"NFLX",
+            "StockName":"NETFLIX",
+            "DESCRIPTION":"Netflix is one the world's leading entertainment services with 221 million paid memberships in over 190 countries enjoying TV series, documentaries, feature films and mobile games across a wide variety of genres and languages. Members can watch as much as they want, anytime, anywhere, on any internet-connected screen. Members can play, pause and resume watching, all without commercials or commitments. SOURCE Netflix, Inc.",
+            "STARTDATE":"2002-05-23",
+            "EXCHANGECODE":"NASDAQ",
+            "closingprice":"85",
+            "currentprice":"80"
+        }
+    ]
+}
