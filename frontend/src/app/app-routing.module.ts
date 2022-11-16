@@ -15,12 +15,12 @@ const routes: Routes = [
   { path: '', component: LoginComponent,canActivate:[AuthGuard] },
   {path:'login',component:LoginComponent},
   {path:'register',component:RegisterComponent},
-  {path:'search',component:TickerSearchComponent},
+  {path:'search',component:TickerSearchComponent,canActivate:[AuthGuard]},
   {path:'stocks',component:StocklistingComponent,canActivate:[AuthGuard]},
-  { path: 'watchlist', component: WatchlistComponent },
-  { path: 'details/:ticker', component: DetailsComponent },
-  { path: 'portfolio', component: PortfolioComponent },
-  {path:'addStock',component:AddstockComponent},
+  { path: 'watchlist', component: WatchlistComponent,canActivate:[AuthGuard] },
+  { path: 'details/:ticker', component: DetailsComponent ,canActivate:[AuthGuard]},
+  { path: 'portfolio', component: PortfolioComponent ,canActivate:[AuthGuard]},
+  {path:'addStock',component:AddstockComponent,canActivate:[AuthGuard]},
   { path: '**',   redirectTo: '', pathMatch: 'full' }
   
   

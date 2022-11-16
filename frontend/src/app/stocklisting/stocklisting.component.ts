@@ -21,9 +21,7 @@ export class StocklistingComponent implements OnInit {
   clickedRows = new Set<Stockview>();
 
   ngOnInit(): void {
-    console.log("the login the user is ",localStorage.getItem('currentUser'));
     if(!localStorage.getItem('currentUser')){
-      console.log("printing from inside the function")
       this._router.navigate(['login'])
     }
     this.detailService.getStocks().subscribe ( responseList => {
@@ -32,7 +30,6 @@ export class StocklistingComponent implements OnInit {
   }
   
   fetchCompanyChart(data: any){
-    console.log("user clicked on",data)
     this._router.navigateByUrl('/details/'+data.ticker);
   }
   ngOnDestroy() { 
