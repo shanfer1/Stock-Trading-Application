@@ -32,6 +32,7 @@ export class LoginComponent implements OnInit {
     }
 
     ngOnInit() {
+      localStorage.clear();
       this.loginfail=false
 
         this.loginForm = this.formBuilder.group({
@@ -72,7 +73,7 @@ export class LoginComponent implements OnInit {
                       localStorage.setItem('isAdmin','0');
                     }
                     this.myapp.isUserLoggedin=true;
-                    this.router.navigate([this.returnUrl])
+                    this.router.navigate(['stocks'])
                   }else{
                     this.loginfail=true;
 

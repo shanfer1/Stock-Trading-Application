@@ -12,11 +12,11 @@ import { AddstockComponent } from './components/addstock/addstock.component';
 
 const routes: Routes = [
 
-  { path: '', component: StocklistingComponent,canActivate:[AuthGuard] },
+  { path: '', component: LoginComponent,canActivate:[AuthGuard] },
   {path:'login',component:LoginComponent},
   {path:'register',component:RegisterComponent},
   {path:'search',component:TickerSearchComponent},
-  {path:'stocks',component:StocklistingComponent},
+  {path:'stocks',component:StocklistingComponent,canActivate:[AuthGuard]},
   { path: 'watchlist', component: WatchlistComponent },
   { path: 'details/:ticker', component: DetailsComponent },
   { path: 'portfolio', component: PortfolioComponent },

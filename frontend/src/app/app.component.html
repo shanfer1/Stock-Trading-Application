@@ -1,6 +1,6 @@
 	<div  class="  d-flex flex-column align-self-stretch" style="min-height: 100%;">
 		<nav class=" navbar-color-special navbar sticky-top navbar-expand-lg ">
-			<a style="outline: none;" routerLink="/" class="navbar-brand nav-link">KidStox</a>
+			<a style="outline: none;" routerLink="/stocks" class="navbar-brand nav-link">KidStox</a>
 			<button  class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 				<span class="navbar-toggler-icon" >
 				</span>
@@ -16,14 +16,14 @@
 						</a>
 					</li>
 					<li class="nav-item" *ngIf="isAdmin" >
-						<a class="nav-link" [routerLinkActiveOptions]="{ exact: true }" routerLink="/changeMarketHours" routerLinkActive="active-route">
+						<a class="nav-link" [routerLinkActiveOptions]="{ exact: true }" routerLink="/stocks" routerLinkActive="active-route">
 							<div class="px-2 text-right">
 								Change Market Hours
 							</div>
 						</a>
 					</li>
 					<li class="nav-item" >
-						<a class="nav-link" [routerLinkActiveOptions]="{ exact: true }" routerLink="/" routerLinkActive="active-route">
+						<a class="nav-link" [routerLinkActiveOptions]="{ exact: true }" routerLink="/stocks" routerLinkActive="active-route">
 							<div class="px-2 text-right">
 								Search
 							</div>

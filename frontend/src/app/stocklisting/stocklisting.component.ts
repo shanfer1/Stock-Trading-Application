@@ -11,11 +11,9 @@ import { AuthenticationService } from '../services/authentication.service';
 })
 export class StocklistingComponent implements OnInit {
   constructor(private detailService: DetailsService,private _router: Router,private authenticationService:AuthenticationService) {
-    // redirect to home if already logged in
-        if (this.authenticationService.currentUserValue) {
-            this._router.navigate(['/stocks']);
-        }else{
-          this._router.navigate['/login']
+  
+        if(!localStorage.getItem('currentUser')){
+          this._router.navigate(['login'])
         }
    }
   displayedColumns: string[] = ['stock','ticker', 'price', 'profit'];
@@ -23,14 +21,28 @@ export class StocklistingComponent implements OnInit {
   clickedRows = new Set<Stockview>();
 
   ngOnInit(): void {
+    console.log("the login the user is ",localStorage.getItem('currentUser'));
+    if(!localStorage.getItem('currentUser')){
+      console.log("printing from inside the function")
+      this._router.navigate(['login'])
+    }
     this.detailService.getStocks().subscribe ( responseList => {
       this.dataSource=this.transformStockView(responseList)
     });
   }
+  
   fetchCompanyChart(data: any){
     console.log("user clicked on",data)
     this._router.navigateByUrl('/details/'+data.ticker);
   }
+  ngOnDestroy() { 
+  
+    localStorage.removeItem('isAdmin');
+    localStorage.removeItem('currentUser');
+    localStorage.clear();
+
+}
+ 
 
   transformStockView(data:CompanyDetails[]){
     let stockviews :Stockview[] = [];

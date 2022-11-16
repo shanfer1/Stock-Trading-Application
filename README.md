@@ -33,3 +33,8 @@ Follow the commands to make the frontend up:
 * python -m ensurepip
 * python -m pip install -r requirements.txt 
 * python app.py
+
+
+## Step 5: For Admin Acess:
+Use Username: admin 
+Password :admin@123

@@ -1,6 +1,8 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit ,HostListener} from '@angular/core';
 import { AuthenticationService } from './services/authentication.service';
 import { Router } from '@angular/router';
+import { BehaviorSubject } from 'rxjs';
+import { User } from './models/Users';
 
 @Component({
   selector: 'app-root',
@@ -8,6 +10,12 @@ import { Router } from '@angular/router';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent implements OnInit {
+  @HostListener("window:onbeforeunload",["$event"])
+  clearLocalStorage(event){
+      localStorage.clear();
+  }
+  private currentUserSubject: BehaviorSubject<User>;
+
   title = 'KidStox';
   isUserLoggedin:boolean;
   isAdmin:boolean;
@@ -24,6 +32,13 @@ export class AppComponent implements OnInit {
       this.isUserLoggedin=false;
     }
   }
+  ngOnDestroy() { 
+  
+    localStorage.removeItem('isAdmin');
+    localStorage.removeItem('currentUser');
+    localStorage.clear();
+
+}
  
   constructor(private authenticationservice:AuthenticationService,private router: Router){}
   logoutUser(){
