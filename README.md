@@ -1,8 +1,7 @@
 # Stock-Trading-Application
 INSTALLATION GUIDE
-The source code is available from two sources
-1.	Attached source zip file in the email
-2.	From my GitHub repo : https://github.com/shanfer1/Stock-Trading-Application.git (Preferred)
+## GET the Code
+1.	From my GitHub repo : https://github.com/shanfer1/Stock-Trading-Application.git (Preferred)
 ## Step 1: Required Installation for Environments:
 1.	Assuming git, NodeJS, npm, python already installed, if installed you can skip section to point number 2
 *	Install git from: https://github.com/git-for-windows/git/releases/download/v2.38.1.windows.1/Git-2.38.1-64-bit.exe
