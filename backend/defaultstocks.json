@@ -37,76 +37,76 @@
             "currentprice":"80"
         },
         {
-            "ticker":"AAPL1",
-            "StockName":"APPLE1",
-            "DESCRIPTION":"Apple Inc. (Apple) designs, manufactures and markets mobile communication and media devices, personal computers, and portable digital music players, and a variety of related software, services, peripherals, networking solutions, and third-party digital content and applications. The Company's products and services include iPhone, iPad, Mac, iPod, Apple TV, a portfolio of consumer and professional software applications, the iOS and OS X operating systems, iCloud, and a variety of accessory, service and support offerings. The Company also delivers digital content and applications through the iTunes Store, App StoreSM, iBookstoreSM, and Mac App Store. The Company distributes its products worldwide through its retail stores, online stores, and direct sales force, as well as through third-party cellular network carriers, wholesalers, retailers, and value-added resellers. In February 2012, the Company acquired app-search engine Chomp.",
+            "ticker":"GOOGL",
+            "StockName":"GOOGLE",
+            "DESCRIPTION":"Alphabet Inc. is an American multinational technology conglomerate holding company headquartered in Mountain View, California. It was created through a restructuring of Google on October 2, 2015,[3] and became the parent company of Google and several former Google subsidiaries.[4][5][6] Alphabet is the world's third-largest technology company by revenue and one of the world's most valuable companies.[7][8] It is one of the Big Five American information technology companies, alongside Amazon, Apple, Meta and Microsoft.The establishment of Alphabet Inc. was prompted by a desire to make the core Google business cleaner and more accountable while allowing greater autonomy to group companies that operate in businesses other than Internet services.[5][9] Founders Larry Page and Sergey Brin announced their resignation from their executive posts in December 2019, with the CEO role to be filled by Sundar Pichai, also the CEO of Google. Page and Brin remain employees, board members, and controlling shareholders of Alphabet Inc.[10]",
             "STARTDATE":"1980-12-12",
             "EXCHANGECODE":"NASDAQ",
-            "closingprice":"98",
-            "currentprice":"100"
+            "closingprice":"97",
+            "currentprice":"150"
         },
         {
-            "ticker":"META1",
-            "StockName":"FACEBOOK1",
-            "DESCRIPTION":"Facebook, Inc. (Facebook) is engaged in building products to create utility for users, developers, and advertisers. People use Facebook to stay connected with their friends and family, to discover what is going on in the world around them, and to share and express what matters to them to the people they care about. Developers can use the Facebook Platform to build applications and Websites that integrate with Facebook to reach its global network of users and to build personalized and social products. Advertisers can engage with more than 900 million monthly active users (MAUs) on Facebook or subsets of its users based on information they have chosen to share with the Company, such as their age, location, gender, or interests. In September 2013, Mail.Ru Group Limited sold its remaining shares in Facebook Inc. Effective September 25, 2013, Facebook Inc acquired Mobile Technologies, a developer of online applications. In October 2013, Facebook Inc acquired Onavo Inc.",
+            "ticker":"WMT",
+            "StockName":"WALMART",
+            "DESCRIPTION":"Walmart Inc. ( /wɔlmɑrt/; formerly Wal-Mart Stores, Inc.) is an American multinational retail corporation that operates a chain of hypermarkets (also called supercenters), discount department stores, and grocery stores from the United States, headquartered in Bentonville, Arkansas.[10] The company was founded by Sam Walton in nearby Rogers, Arkansas in 1962 and incorporated under Delaware General Corporation Law on October 31, 1969. It also owns and operates Sam's Club retail warehouses.[11][12]As of October 31, 2022, Walmart has 10,586 stores and clubs in 24 countries, operating under 46 different names.[2][3][4] The company operates under the name Walmart in the United States and Canada, as Walmart de México y Centroamérica in Mexico and Central America, and as Flipkart Wholesale in India. It has wholly owned operations in Chile, Canada, and South Africa. Since August 2018, Walmart held only a minority stake in Walmart Brasil, which was renamed Grupo Big in August 2019, with 20 percent of the company's shares, and private equity firm Advent International holding 80 percent ownership of the company. They eventually divested their shareholdings in Grupo Big to French retailer Carrefour, in transaction worth R$7 billion and completed on June 7, 2022",
+            "STARTDATE":"2012-05-18",
+            "EXCHANGECODE":"NASDAQ",
+            "closingprice":"89",
+            "currentprice":"90"
+        },
+        {
+            "ticker":"KO",
+            "StockName":"COCA COLA",
+            "DESCRIPTION":"he Coca-Cola Company is an American multinational beverage corporation founded in 1892, best known as the producer of Coca-Cola. The Coca-Cola Company also manufactures, sells, and markets other non-alcoholic beverage concentrates and syrups, and alcoholic beverages. The company's stock is listed on the NYSE and is part of the DJIA and the S&P 500 and S&P 100 indexes. The soft drink was developed in 1886 by pharmacist John Stith Pemberton. At the time it was introduced, the product contained cocaine from coca leaves and caffeine from kola nuts which together acted as a stimulant. The coca and the kola are the source of the product name, and led to Coca-Cola's promotion as a . Pemberton had been severely wounded in the American Civil War, and had become addicted to the pain medication morphine. He developed the beverage as a patent medicine in an effort to control his addiction.",
+            "STARTDATE":"1997-05-15",
+            "EXCHANGECODE":"NASDAQ",
+            "closingprice":"70",
+            "currentprice":"71"
+        },
+        {
+            "ticker":"DELL",
+            "StockName":"DELL",
+            "DESCRIPTION":"Dell Technologies (DELL) closed the most recent trading day at $42.25, moving -1.01% from the previous trading session. This move lagged the S&P 500's daily loss of 0.89%. Meanwhile, the Dow lost 0.63%, and the Nasdaq, a tech-heavy index, lost 0.24%. Heading into today, shares of the computer and technology services provider had gained 24.58% over the past month, outpacing the Computer and Technology sector's gain of 10.6% and the S&P 500's gain of 11.42% in that time",
+            "STARTDATE":"2002-05-23",
+            "EXCHANGECODE":"NASDAQ",
+            "closingprice":"170",
+            "currentprice":"450"
+        },
+        {
+            "ticker":"HPQ",
+            "StockName":"HP",
+            "DESCRIPTION":"The Hewlett-Packard Company, commonly shortened to Hewlett-Packard (/hjult pækərd/ HYEW-lit PAK-ərd) or HP, was an American multinational information technology company headquartered in Palo Alto, California. HP developed and provided a wide variety of hardware components, as well as software and related services to consumers, small and medium-sized businesses (SMBs), and large enterprises, including customers in the government, health, and education sectors. The company was founded in a one-car garage in Palo Alto by Bill Hewlett and David Packard in 1939, and initially produced a line of electronic test and measurement equipment. The HP Garage at 367 Addison Avenue is now designated an official California Historical Landmark, and is marked with a plaque calling it the Birthplace of 'Silicon Valley'",
+            "STARTDATE":"1980-12-12",
+            "EXCHANGECODE":"NASDAQ",
+            "closingprice":"560",
+            "currentprice":"600"
+        },
+        {
+            "ticker":"INTC",
+            "StockName":"INTEL",
+            "DESCRIPTION":"Intel Corporation is an American multinational corporation and technology company headquartered in Santa Clara, California. It is the world's largest semiconductor chip manufacturer by revenue, and is one of the developers of the x86 series of instruction sets, the instruction sets found in most personal computers.",
             "STARTDATE":"2012-05-18",
             "EXCHANGECODE":"NASDAQ",
             "closingprice":"56",
             "currentprice":"54"
         },
         {
-            "ticker":"AMZN1",
-            "StockName":"AMAZON1",
-            "DESCRIPTION":"Amazon is guided by four principles: customer obsession rather than competitor focus, passion for invention, commitment to operational excellence, and long-term thinking. Amazon strives to be Earth’s Most Customer-Centric Company, Earth’s Best Employer, and Earth’s Safest Place to Work. Customer reviews, 1-Click shopping, personalized recommendations, Prime, Fulfillment by Amazon, AWS, Kindle Direct Publishing, Kindle, Career Choice, Fire tablets, Fire TV, Amazon Echo, Alexa, Just Walk Out technology, Amazon Studios, and The Climate Pledge are some of the things pioneered by Amazon.",
+            "ticker":"JPM",
+            "StockName":"JP MORGAN",
+            "DESCRIPTION":"JPMorgan Chase & Co. is an American multinational investment bank and financial services holding company headquartered in New York City and incorporated in Delaware.",
             "STARTDATE":"1997-05-15",
             "EXCHANGECODE":"NASDAQ",
-            "closingprice":"89",
-            "currentprice":"90"
+            "closingprice":"100",
+            "currentprice":"102"
         },
         {
-            "ticker":"NFLX1",
-            "StockName":"NETFLIX1",
-            "DESCRIPTION":"Netflix is one the world's leading entertainment services with 221 million paid memberships in over 190 countries enjoying TV series, documentaries, feature films and mobile games across a wide variety of genres and languages. Members can watch as much as they want, anytime, anywhere, on any internet-connected screen. Members can play, pause and resume watching, all without commercials or commitments. SOURCE Netflix, Inc.",
+            "ticker":"BCSF",
+            "StockName":"BAIN AND COMPANY",
+            "DESCRIPTION":" BOSTON, August 03, 2022--(BUSINESS WIRE)--Bain Capital Specialty Finance, Inc. (NYSE: BCSF, the Company  today announced financial results for the second quarter ended June 30, 2022, and that its Board of Directors has declared a dividend of $0.34 per share for the third quarter of 2022.",
             "STARTDATE":"2002-05-23",
             "EXCHANGECODE":"NASDAQ",
-            "closingprice":"85",
-            "currentprice":"80"
-        },
-        {
-            "ticker":"AAPL2",
-            "StockName":"APPLE2",
-            "DESCRIPTION":"Apple Inc. (Apple) designs, manufactures and markets mobile communication and media devices, personal computers, and portable digital music players, and a variety of related software, services, peripherals, networking solutions, and third-party digital content and applications. The Company's products and services include iPhone, iPad, Mac, iPod, Apple TV, a portfolio of consumer and professional software applications, the iOS and OS X operating systems, iCloud, and a variety of accessory, service and support offerings. The Company also delivers digital content and applications through the iTunes Store, App StoreSM, iBookstoreSM, and Mac App Store. The Company distributes its products worldwide through its retail stores, online stores, and direct sales force, as well as through third-party cellular network carriers, wholesalers, retailers, and value-added resellers. In February 2012, the Company acquired app-search engine Chomp.",
-            "STARTDATE":"1980-12-12",
-            "EXCHANGECODE":"NASDAQ",
-            "closingprice":"98",
-            "currentprice":"100"
-        },
-        {
-            "ticker":"META",
-            "StockName":"FACEBOOK",
-            "DESCRIPTION":"Facebook, Inc. (Facebook) is engaged in building products to create utility for users, developers, and advertisers. People use Facebook to stay connected with their friends and family, to discover what is going on in the world around them, and to share and express what matters to them to the people they care about. Developers can use the Facebook Platform to build applications and Websites that integrate with Facebook to reach its global network of users and to build personalized and social products. Advertisers can engage with more than 900 million monthly active users (MAUs) on Facebook or subsets of its users based on information they have chosen to share with the Company, such as their age, location, gender, or interests. In September 2013, Mail.Ru Group Limited sold its remaining shares in Facebook Inc. Effective September 25, 2013, Facebook Inc acquired Mobile Technologies, a developer of online applications. In October 2013, Facebook Inc acquired Onavo Inc.",
-            "STARTDATE":"2012-05-18",
-            "EXCHANGECODE":"NASDAQ",
-            "closingprice":"56",
-            "currentprice":"54"
-        },
-        {
-            "ticker":"AMZN",
-            "StockName":"AMAZON",
-            "DESCRIPTION":"Amazon is guided by four principles: customer obsession rather than competitor focus, passion for invention, commitment to operational excellence, and long-term thinking. Amazon strives to be Earth’s Most Customer-Centric Company, Earth’s Best Employer, and Earth’s Safest Place to Work. Customer reviews, 1-Click shopping, personalized recommendations, Prime, Fulfillment by Amazon, AWS, Kindle Direct Publishing, Kindle, Career Choice, Fire tablets, Fire TV, Amazon Echo, Alexa, Just Walk Out technology, Amazon Studios, and The Climate Pledge are some of the things pioneered by Amazon.",
-            "STARTDATE":"1997-05-15",
-            "EXCHANGECODE":"NASDAQ",
-            "closingprice":"89",
-            "currentprice":"90"
-        },
-        {
-            "ticker":"NFLX",
-            "StockName":"NETFLIX",
-            "DESCRIPTION":"Netflix is one the world's leading entertainment services with 221 million paid memberships in over 190 countries enjoying TV series, documentaries, feature films and mobile games across a wide variety of genres and languages. Members can watch as much as they want, anytime, anywhere, on any internet-connected screen. Members can play, pause and resume watching, all without commercials or commitments. SOURCE Netflix, Inc.",
-            "STARTDATE":"2002-05-23",
-            "EXCHANGECODE":"NASDAQ",
-            "closingprice":"85",
-            "currentprice":"80"
+            "closingprice":"120",
+            "currentprice":"130"
         }
     ]
 }
